@@ -35,7 +35,7 @@ sudo apt-get install git
 ##### Clonar repositório do software Klassic
 Git Clone:
 ```sh
-git clone https://github.com/ykaroandrade/projeto_gerencia.git
+git clone https://github.com/ykaroandrade/Gerencia_repositorio.git
 ```
 
 ##### Acesse o diretório clonado:
