@@ -25,6 +25,7 @@ public class CrudCidade extends AbstractCrud<Cidade> {
 
     @Override
     protected EntityManager getEntityManager() {
+        System.out.println("Testando");
         if (em == null) {
             em = Persistence.createEntityManagerFactory(PU).createEntityManager();
         }
